@@ -2,7 +2,8 @@
 
 An **Embedded**, *protable digital audiometer* for hearing threshold testing using the **Teensy4.1** platform and an **SGTL5000 Audio Shield**.
 
-#Key Highlights:
+# Key Highlights:
+
 **Dual-channel Audio Generation: ** leverages the **SGTL5000's** hardware DAC to deliver precise pure-tone signals to the target ear while streaming continuous white noise masking to the contralateral ear.
 
 **Granular Gain Control:** Features real-time volume adjustment to incrementally test hearing sensitivity across discrete decibel and frequency bands. 
