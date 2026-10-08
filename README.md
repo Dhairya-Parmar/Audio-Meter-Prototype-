@@ -1,5 +1,4 @@
 # Low-Cost Audio-Meter-Prototype: 
-a project based on Teensy4.1 and Audioshield SGTL5000 
 
 An **Embedded**, *protable digital audiometer* for hearing threshold testing using the **Teensy4.1** platform and an **SGTL5000 Audio Shield**.
 
